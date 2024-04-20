@@ -1,4 +1,4 @@
-# TODOTCS
+# TODO App
 
 This is a single-page Todo app built with React and Redux. The app allows users to perform CRUD operations on their todo list and includes features such as filtering by status.
 
@@ -35,4 +35,4 @@ To run this project locally, follow these steps:
    `npm start`
 
 ## Live link
-https://todotcs.vercel.app/
+[text](https://todotcs.vercel.app/)
