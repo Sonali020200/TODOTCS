@@ -35,4 +35,4 @@ To run this project locally, follow these steps:
    `npm start`
 
 ## Live link
-[text](https://todotcs.vercel.app/)
+https://todotcs.vercel.app/
